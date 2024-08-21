@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3422507435
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bakedmodel_gallery01
+      Dependencies: {}
